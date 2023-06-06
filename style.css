@@ -193,3 +193,80 @@ body {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+@media screen and (max-width: 500px) {
+  body {
+    background-image: url("images/pattern-background-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 28%;
+  }
+
+  h1 {
+    font-size: 22px;
+    color: var(--dark-blue);
+  }
+  
+  h2 {
+    font-weight: 900;
+    font-size: 14px;
+    color: var(--dark-blue);
+  }
+  
+  p {
+    font-weight: 500;
+    font-size: 15px;
+    color: var(--desaturated-blue);
+  }
+
+  .card-container {
+    min-height: 567px;
+    max-width: 327px;
+  }
+
+  .text-container {
+    padding-top: 1.8rem;
+    padding-left: 2.3rem;
+    padding-right: 2.3rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .text-content {
+    padding-top: 1rem;
+  }
+
+  .plan-container {
+    min-width: 279px;
+    min-height: 81px;
+  }
+
+  .plan-logo {
+    margin-left: 1rem;
+  }
+  
+  .plan-pricing {
+    margin-left: 1rem;
+  }
+  
+  .pricing {
+    margin-top: 0.2rem;
+  }
+  
+  .change-plan {
+    margin-left: auto;
+    margin-right: 1rem;
+  }
+
+  .card-btn {
+    min-width: 279px;
+    min-height: 50px;
+}
+
+.decision-container {
+  padding-top: 1.6rem;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 2rem;
+}
