@@ -1,6 +1,6 @@
 # Frontend Mentor: Order Summary Card
 
-![Final Screenshot](./images/005_final.png)
+![Final Screenshot](./images/005-final.png)
 
 ## Overview
 
