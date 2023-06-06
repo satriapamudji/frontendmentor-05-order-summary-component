@@ -4,9 +4,9 @@
 
 ## Overview
 
-[3-Column Preview Card Component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub)
+[Order Summary Card](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
-In this challenge, we had to create a 3 column card component to make it look at close as the given images.
+In this challenge, we had to build out this order summary card component and get it looking as close to the design as possible.
 
 For this project, I built it with these:
 
@@ -16,12 +16,12 @@ For this project, I built it with these:
 
 ### What I learned
 
-Based off the last few challenges, I have learnt how to properly align my items horizontally, and also tried my best to make the HTML as semantic as it can possibly be. Where I spent quite a few minutes on is on the vertical alignment. What helped for me was this piece of code below:
+This challenge has taught me that practice allows you to be better at something. Following my last challenge, I changed my body for centering the content to this below:
 
 ```
 body {
 ...
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -29,9 +29,9 @@ body {
 }
 ```
 
-The code above allowed me to vertically align all of my content (both main, and also the footer). Overall, I'm happy with my progress in learning HTML and CSS. I actually thought I was dumb this morning but I managed to complete this!
+The code above allowed me to vertically align all of my content (both main, and also the footer). Overall, it shows that I am improving in my HTML and CSS skills, and I'm quite happy with it!
 
 ### Links
 
-- Live Site URL: [3-Column Preview Card Component](https://frontendmentor-04-column-preview.vercel.app/)
+- Live Site URL: [Order Summary Card](https://frontendmentor-05-order-summary-component.vercel.app/)
 - View my other challenges here: [Challenges Page](https://frontendmentor-00-main.vercel.app/)
