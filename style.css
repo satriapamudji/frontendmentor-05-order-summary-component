@@ -205,13 +205,13 @@ body {
     font-size: 22px;
     color: var(--dark-blue);
   }
-  
+
   h2 {
     font-weight: 900;
     font-size: 14px;
     color: var(--dark-blue);
   }
-  
+
   p {
     font-weight: 500;
     font-size: 15px;
@@ -242,15 +242,15 @@ body {
   .plan-logo {
     margin-left: 1rem;
   }
-  
+
   .plan-pricing {
     margin-left: 1rem;
   }
-  
+
   .pricing {
     margin-top: 0.2rem;
   }
-  
+
   .change-plan {
     margin-left: auto;
     margin-right: 1rem;
@@ -259,14 +259,15 @@ body {
   .card-btn {
     min-width: 279px;
     min-height: 50px;
-}
+  }
 
-.decision-container {
-  padding-top: 1.6rem;
-}
+  .decision-container {
+    padding-top: 1.6rem;
+  }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  margin-top: 2rem;
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 2rem;
+  }
 }
